@@ -1,4 +1,4 @@
-Light Messaging Core Boilerplate
+Light Messaging Core Boilerplate with Saga
 ===
 
 Lightweight core messaging library and boilerplate with _RabbitMQ_, _MassTransit_ and SagaStateMachine
