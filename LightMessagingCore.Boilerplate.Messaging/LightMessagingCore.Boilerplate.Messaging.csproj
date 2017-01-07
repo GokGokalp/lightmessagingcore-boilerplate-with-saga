@@ -41,7 +41,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IOrderCommand.cs" />
-    <Compile Include="IOrderFraudCheckedEvent.cs" />
     <Compile Include="IOrderProcessedEvent.cs" />
     <Compile Include="IOrderReceivedEvent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
