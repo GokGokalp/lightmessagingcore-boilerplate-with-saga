@@ -25,7 +25,7 @@ namespace LightMessagingCore.Boilerplate.OrderUI.Controllers
             if (orderModel.OrderId > 0)
                 CreateOrder(orderModel);
 
-            return View();
+            return View(orderModel);
         }
 
         private void CreateOrder(OrderModel orderModel)
